@@ -2,8 +2,8 @@
 
 
 // TELGRAM BOT SEND TO GROUP
-const botToken = '6749638875:AAH0eWkummTf0Es0pQwor_CpnRHy8RgaV6Y';
-const chatId = -1002049841372;
+const botToken = 'token';
+const chatId = 'chatId';
 
 // Corrected sendMessage function
 const sendMessage = async () => {
